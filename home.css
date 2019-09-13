@@ -1,0 +1,23 @@
+/* Everything in here is a COMMENT CODE */
+
+body
+{
+    /* background-color: darkturquoise; */
+    background-image: url(img/sunflower.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h4
+{
+    color: #c7b04a;
+}
+
+
+/* Style a specific section of the page that had an ID= using the hashtag # */
+#textEnhance
+{
+    color: #40e0d0;
+    background-image: linear-gradient(blue,yellow,white);
+
+}
